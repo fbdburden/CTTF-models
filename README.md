@@ -6,5 +6,5 @@ This repository provides the different models used within the chemical and toxin
 
 
 
-The different models are outlined in *World Health Organization Estimates of the Global, Regional, and National Disease Burden of Nine Foodborne Chemicals, 2000-2021: An Updated Data Synthesis*, submitted to Lancet Global Health.
+The different models are outlined in *World Health Organization Estimates of the Global, Regional, and National Disease Burden of Nine Foodborne Chemicals, 2000-2021: An Updated Data Synthesis*, submitted to Lancet Global Health (https://doi.org/10.1016/j.langlo.2026.103986).
 
